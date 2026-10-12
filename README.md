@@ -1,7 +1,5 @@
 # Michelle ZOOTYAM — Data Analyst
 
-Je transforme les données chaotiques en informations claires et exploitables, avec une connaissance concrète des enjeux financiers et logistiques.
-
 ## À propos de moi
 
 Pendant sept ans dans le secteur de l’outillage, j’ai géré des portefeuilles clients à fort volume et des milliers de lignes de créances. Derrière les factures impayées se trouvaient souvent des litiges : le suivi des paiements dépendait de toute une chaîne opérationnelle.
