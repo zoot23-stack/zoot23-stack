@@ -41,3 +41,18 @@ Concevoir des tableaux de bord clairs pour suivre les délais de paiement (DSO),
 ## Mon CV
 
 [Consulter mon CV](CV.Github.pdf)
+
+## Veille métier et technologique
+J’ai mis en place une veille régulière sur Feedly afin de comprendre comment la Data, l’IA et le digital transforment les outils, les décisions et les métiers. Les sources sont spécialisées et reconnues, notamment OpenAI, Microsoft Research, MIT News, Python Software Foundation, dbt Labs, Datawrapper et Supply Chain Dive. Les articles sont centralisés puis classés autour de trois thèmes : Data Analytics et Business Intelligence, IA et transformation digitale, Supply Chain et logistique. Le partage public du tableau Feedly n’étant pas disponible, je vous partage quelques articles récents accompagnés de leur lien direct.
+
+### Ma sélection récente:
+
+1- [AI is watching you](https://www.datawrapper.de/blog/ai-surveillence-tech)
+  Publié le 8 octobre 2026 de Datawrapper: L’IA a rendu la surveillance de masse plus facile et plus répandue, y compris     dans les démocraties libérales, qui utilisent le plus la reconnaissance faciale et la police prédictive, alors que la      réglementation peine à suivre.
+  
+2- [Ne reconstruire que ce qui a changé](https://www.getdbt.com/blog/dbt-state-stop-rebuilding?utm_source=chatgpt.com)
+Publié le 5 octobre dbt State évite de reconstruire les modèles dont ni la logique ni les données en amont n’ont changé, en réutilisant les résultats précédents, ce qui, selon ceratains clients cités par dbt Labs, réduit sensiblement les coûts de calcul et le temps d’exécution des pipelines.
+
+3- [Des transports plus efficace](https://news.mit.edu/2026/computational-tools-for-societys-most-complex-challenges-cathy-wu-1002?utm_source=chatgpt.com)
+Publié le 2 octobre: Une professeure du MIT *Cathy Wu* utilise l’apprentissage par renforcement pour résoudre des problèmes complexes de transport, avec une méthode qui rend l’entraînement des modèles jusqu’à 30 fois plus efficace et des travaux montrant que l’éco-conduite pourrait réduire les émissions des véhicules de 11 à 22 %.
+(En apprentissage par renforcement, il n’y a pas de jeu de données au départ. L’agent fabrique ses propres données en agissant dans un environnement, souvent un simulateur (par exemple un simulateur de trafic). Chaque essai produit une situation, une action et une récompense, et c’est avec ça qu’il apprend.)
