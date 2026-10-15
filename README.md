@@ -1,4 +1,4 @@
-# Michelle ZOOTYAM — Data Analyst (en formation)
+# Michelle ZOOTYAM — Data Analyst
 
 ## À propos de moi
 
